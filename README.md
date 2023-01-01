@@ -1,0 +1,1 @@
+Creating a Single-Page Application in React, will explore the foundation of building React projects that can scale. Best practices of how to structure your files, packages to use, and tools will be discussed and practiced. You'll learn about React architecture while building a Single-page application. Also, webpack and Babel are used to compile code.
