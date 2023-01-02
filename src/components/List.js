@@ -1,4 +1,12 @@
+import Character from "./Character"
+
 function List () {
-    return <h2>Character</h2>
+    return (
+        <div>
+            <h2>Characters</h2>
+            <Character/>
+            <Character/>
+        </div>
+    );
 }
 export default List;
