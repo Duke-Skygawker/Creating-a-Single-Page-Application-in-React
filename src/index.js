@@ -1,8 +1,14 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import List from "./components/List"
 
 function App() {
-    return <h1>Rick and Morty</h1>
+    return (
+        <div>
+            <h1>Rick and Morty</h1>
+            <List/>
+        </div>
+    )
 }
 
 const container = document.getElementById("root");
